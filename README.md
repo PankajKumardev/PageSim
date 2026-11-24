@@ -6,6 +6,8 @@ Open `src/coaLogic.js` to explain the algorithms. The screen in `src/App.jsx` do
 
 See [ROLES.md](ROLES.md) for Pankaj and Shivam’s responsibilities.
 
+See [COA_TOPICS.md](COA_TOPICS.md) for the COA topics PageSim demonstrates and where they appear in the code.
+
 Download the [PageSim Project Guide](docs/PageSim-Project-Guide.docx) for the project flow, worked FIFO and LRU example, and source-code walkthrough.
 
 ## How to run
