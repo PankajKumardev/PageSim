@@ -4,6 +4,8 @@ PageSim is an MCA mini-project for Computer Organization and Architecture. It sh
 
 Open `src/coaLogic.js` to explain the algorithms. The screen in `src/App.jsx` does not contain FIFO or LRU rules. It only reads the inputs, calls `fifo()` or `lru()`, and draws the result.
 
+See [ROLES.md](ROLES.md) for Pankaj and Shivam’s responsibilities.
+
 ## How to run
 
 ```bash
